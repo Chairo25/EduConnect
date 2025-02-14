@@ -1,0 +1,40 @@
+.admin-container {
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  text-align: center;
+  width: 50%;
+}
+
+.admin-title {
+  color: #003366;
+  text-align: center;
+}
+
+.admin-subtitle {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.admin-user-list {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+.admin-user-item {
+  background-color: #e6f2ff;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+  display: inline-block;
+  width: 80%;
+}
+
+.access-denied {
+  color: red;
+  text-align: center;
+  font-size: 20px;
+}
